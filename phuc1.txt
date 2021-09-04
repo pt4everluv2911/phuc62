@@ -1,3 +1,7 @@
 <h1>this is phuc1</h1>
+<<<<<<< HEAD
 <h1>modify it </h1>
-<h1> kkkk <h1>
+=======
+<h1>modify it, de conflict </h1>
+
+>>>>>>> fd49332db6fc4e9f3be6ceaac63d07911a68d41b
