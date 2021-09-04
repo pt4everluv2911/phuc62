@@ -2,5 +2,4 @@ client lên trang web, microservice gọi qua gateway
 gateway là gì? định tuyến gọi tới servipảice nào , đăng ky register 
 service phải được đăng ký trên euraka 
 load balancer tìm server nào
-123:wq
-
+123:
